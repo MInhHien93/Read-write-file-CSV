@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a6c7ba3-d079-4c11-8082-b6f3b1c1bf7d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writer-file-CSV/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writer-file-CSV/.idea/Read-write-file-CSV.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writer-file-CSV/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writer-file-CSV/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writer-file-CSV/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writer-file-CSV/CSV/CSV.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writer-file-CSV/CSV/src/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writer-file-CSV/CSV/src/Writer/CsvWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writer-file-CSV/contries.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writer-file-CSV/out/production/CSV/Country.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writer-file-CSV/out/production/CSV/CsvReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writer-file-CSV/out/production/CSV/CsvWriter.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1l2PJhKlLIox42naFHNfqA6oqPj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a6c7ba3-d079-4c11-8082-b6f3b1c1bf7d" name="Default Changelist" comment="" />
+      <created>1606792142856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606792142856</updated>
+      <workItem from="1606792144090" duration="756000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="171" key="FileChooserDialogImpl" timestamp="1606792279635">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="171" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1606792279635" />
+    <state x="391" y="50" key="new project wizard" timestamp="1606792629332">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="391" y="50" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1606792629332" />
+  </component>
+</project>
